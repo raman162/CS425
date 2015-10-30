@@ -1,0 +1,1 @@
+This following repository contains the work to make a GUI Database for a Leather Store.
